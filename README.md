@@ -1,3 +1,4 @@
+[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/@oxfuturecrypto)
 # MEV Bot Solana
 
 Welcome to the MEV Bot Solana repository! This project aims to develop a bot that takes advantage of MEV (Miner Extractable Value) opportunities on the Solana blockchain. 
